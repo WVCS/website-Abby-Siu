@@ -1,3 +1,38 @@
-body {
-
+body{
+  background-color: #9ED0E6;
+}
+h1{
+  font-size:300%;
+  letter-spacing: 1px;
+  color: #000000;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p{
+  font-size: 200%;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img{
+  width: 550px;
+  border-style: ridge;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 15px;
+  border: ridge;
+  border-color: #7A309A;
+  color: #7A309A;
+  background-color: #DCD3E1;
+}
+li a:hover{
+  background-color: #2afff6;
+  font-family: Arial, Helvetica, sans-serif;
 }
