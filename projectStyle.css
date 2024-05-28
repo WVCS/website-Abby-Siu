@@ -1,1 +1,34 @@
-
+body{
+  background-color:#F6E4F6;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 15px;
+  border: ridge;
+  border-color: #7A309A;
+  color: #7A309A;
+  background-color: #DCD3E1;
+}
+li a:hover{
+  background-color: #F4F4F4;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.label{
+  color: #FFFFFF;
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-left:15px;
+  padding-right: 15px;
+  margin-left:115px;
+  margin-right:115px;
+}
+.dog {background-color: #8B575C;} /* Green */
+.alien {background-color: #8B575C;} /* Blue */
+.friend {background-color: #8B575C;} /* Orange */
+.dino {background-color: #8B575C;} /* Red */
