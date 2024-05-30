@@ -1,0 +1,37 @@
+ul{
+  list-style-type: none;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 15px;
+  border: ridge;
+  border-color: #A69CAC;
+  color: #FFFFFF;
+  background-color: #161B33;
+}
+li a:hover{
+  background-color: #A69CAC;
+  color: #161B33;
+  border-color: #161B33;
+}
+h3{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+body{
+  background-color:#A4DEF9;
+}
+h1{
+  text-decoration: underline;
+}
+img{
+  height: 210px;
+  padding:25px;
+  border-style: dotted;
+  border-color: #FFFFFF;
+}
+.label{
+  padding-right: 35px;
+  padding-left: 40px;
+}
